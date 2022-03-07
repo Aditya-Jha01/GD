@@ -12,3 +12,5 @@ Examples:
 | text |
 | ABC  |
 | DEF  |
+| GHI  |
+| JKL  |
