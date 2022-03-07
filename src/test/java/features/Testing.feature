@@ -14,3 +14,6 @@ Examples:
 | DEF  |
 | GHI  |
 | JKL  |
+| MNO  |
+| PQR  |
+| STU  |
