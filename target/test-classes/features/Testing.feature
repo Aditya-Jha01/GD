@@ -17,3 +17,5 @@ Examples:
 | MNO  |
 | PQR  |
 | STU  |
+| VWX  |
+| YZ1  |
